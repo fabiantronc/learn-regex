@@ -185,7 +185,7 @@ El símbolo `+` coincide con una o más repeticiones del carácter anterior. Por
 
 ### 2.3.3 Signo de interrogación
 
-En expresiones regulares el meta-carácter `?` hace que el carácter precedente sea opcional. Este símnbolo coincide con cero o una instancia del carácter precedente. Por ejemplo, la expresión regular  `[T]?he` significa: El carácter opcional `T` seguido por el carácter en minúscula `h`, seguido del carácter en minúscula `e`.
+En expresiones regulares el meta-carácter `?` hace que el carácter precedente sea opcional. Este símbolo coincide con cero o una instancia del carácter precedente. Por ejemplo, la expresión regular  `[T]?he` significa: El carácter opcional `T` seguido por el carácter en minúscula `h`, seguido del carácter en minúscula `e`.
 
 <pre>
 "[T]he" => <a href="#learn-regex"><strong>The</strong></a> car is parked in the garage.
